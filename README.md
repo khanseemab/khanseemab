@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khanseemab
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Data Structure Algorithm
-- 💞️ I’m looking to collaborate 
+- 💞️ I’m looking to collaborate with other developers and learn more
 - 📫 You can reach me through Instagram- @khanseemab_07
 
 <!---
