@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @khanseemab
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Data Structure Algorithm
+- 👀 I’m a Front-end Developer
 - 💞️ I’m looking to collaborate with other developers and learn more
-- 📫 You can reach me through Instagram- @khanseemab_07
+- 📫 You can reach me through mail - seemab2703@gmail.com
 
 <!---
 khanseemab/khanseemab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
